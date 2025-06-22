@@ -1,5 +1,6 @@
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
+import '../styles/Pages.css'
 
 const CoursesPage = () => {
     return(
